@@ -1,2 +1,1 @@
-# Praktikum-Pemweb
-Praktikum pemrograman web semester 2
+Praktikum Pemrograman web NUrpadlah Apipah SI 11 semester 2
